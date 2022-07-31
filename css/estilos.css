@@ -1,0 +1,32 @@
+.papita{
+
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #EAEBEF;
+    font-family: 'Poppins', sans-serif;
+}
+.camotito
+{
+    
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+}
+.nav__link {
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #F0C30F;
+    font-size: 1,5rem;
+    position: relative;
+    font-family: Copperplate;
+}

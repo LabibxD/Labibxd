@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{ background: #EAEBEF;
+    font-family: 'Poppins', sans-serif;}
+.papita2{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1rem;
+    font-size: 25px;
+}
+.papita22
+{
+    padding: 1.5rem;
+
+}
+.papita23
+{
+    padding: 2.3rem;
+
+}
+.patito33
+{
+    padding: 3rem;
+    color: #DDC219;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+.color 
+        {
+            display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: #FFFFFF;
+
+         
+        }
+.arroz
+{
+    display: flex;
+    justify-content: center;
+}

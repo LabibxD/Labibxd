@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #EAEBEF;
+    font-family: 'Poppins', sans-serif;
+}
+.camote44{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: #E4D32B;
+    padding: 2rem;
+}
+.cositas
+{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    padding: 3rem;
+}
